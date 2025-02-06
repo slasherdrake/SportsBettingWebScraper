@@ -1,1 +1,2 @@
-# SportsBettingWebScraper
+# SportsBetting WebScraper
+
